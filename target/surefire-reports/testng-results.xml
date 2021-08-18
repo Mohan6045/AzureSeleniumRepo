@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-17T16:33:21 IST" name="Suite" finished-at="2021-08-17T16:34:16 IST" duration-ms="54901">
+    <groups>
+    </groups>
+    <test started-at="2021-08-17T16:33:21 IST" name="ChromeTest" finished-at="2021-08-17T16:34:16 IST" duration-ms="54901">
+      <class name="testcases.IciciTestCase">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:testcases.IciciTestCase@44a664f2]" started-at="2021-08-17T16:33:21 IST" name="launchBrowser" finished-at="2021-08-17T16:33:55 IST" duration-ms="34347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="testCase()[pri:0, instance:testcases.IciciTestCase@44a664f2]" started-at="2021-08-17T16:33:55 IST" name="testCase" finished-at="2021-08-17T16:34:11 IST" duration-ms="16289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.IciciTestCase@44a664f2]" started-at="2021-08-17T16:34:11 IST" name="closeBrowser" finished-at="2021-08-17T16:34:16 IST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.IciciTestCase -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
